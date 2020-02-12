@@ -21,9 +21,9 @@ end
 # partner should uncomment the other. Git will merge the two
 # sets of changes together.
 
-# def robot_noise
-#   puts "beep boop"
-# end
+def robot_noise
+  puts "beep boop"
+end
 
 # def train_noise
 #   puts "choo choo"
@@ -34,5 +34,5 @@ end
 # Git doesn't know what to do in this case, so you'll have to
 # merge the two versions by hand.
 def clock_noise
-  puts ""
+  puts "coffee is needed"
 end
