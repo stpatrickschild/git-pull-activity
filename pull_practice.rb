@@ -12,9 +12,9 @@ def duck_noise
 end
 
 # Task 2: Same as task one, but switch roles
-# def truck_noise
-#   puts "honk"
-# end
+def truck_noise
+  puts "honk"
+end
 
 # Taks 3: Merging Changes
 # One partner should uncomment one method, and the other
@@ -25,9 +25,9 @@ def robot_noise
   puts "beep boop"
 end
 
-# def train_noise
-#   puts "choo choo"
-# end
+def train_noise
+  puts "choo choo"
+end
 
 # Task 4: Merge Conflict
 # Both partners should modify the same line in different ways.
